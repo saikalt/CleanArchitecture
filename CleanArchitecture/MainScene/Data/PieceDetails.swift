@@ -1,8 +1,8 @@
 //
 //  PieceDetailsViewModel.swift
-//  test-task-halbestunde
+//  CleanArchitecture
 //
-//  Created by Iurii Gubanov on 19.05.2022.
+//  Created by Saikal Toichueva on 19.05.2022.
 //
 
 import Foundation

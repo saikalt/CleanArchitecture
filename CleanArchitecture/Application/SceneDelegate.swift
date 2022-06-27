@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  test-task-halbestunde
+//  CleanArchitecture
 //
-//  Created by Iurii Gubanov on 18.05.2022.
+//  Created by Saikal Toichueva on 18.05.2022.
 //
 
 import UIKit

@@ -1,6 +1,6 @@
 //
 //  AppDIContainer.swift
-//  test-task-halbestunde
+//  CleanArchitecture
 //
 //  Created by Saikal Toichueva on 17/6/22.
 //
