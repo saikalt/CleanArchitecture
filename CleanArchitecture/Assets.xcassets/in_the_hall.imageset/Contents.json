@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "in_the_hall.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

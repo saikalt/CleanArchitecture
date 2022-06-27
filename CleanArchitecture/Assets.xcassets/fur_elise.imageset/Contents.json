@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "fur_elise.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

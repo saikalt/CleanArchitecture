@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "eine_kleine_nachtmusik.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
